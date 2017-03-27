@@ -5,7 +5,6 @@ document.getElementById("navMenu").innerHTML =
             '<a class="dropdown-toggle" data-toggle="dropdown" href="About.html">About Us' + '<span class="caret">' + '</span>'+ '</a>' +
     '<ul class="dropdown-menu">' +
     '<li>' + '<a href="E-Board.html">Executive Board</a>'+ '</li>' +
-    '<li>' + '<a href="E-Board.html">' + 'Executive Board</a>'+ '</li>' +
     '</ul>' + '</li>' +
         '<li>'+
             '<a href="Membership.html">Membership</a>'+
@@ -14,7 +13,7 @@ document.getElementById("navMenu").innerHTML =
             '<a href="Events.html">Events</a>'+
         '</li>'+
         '<li>'+
-            '<a href="AIMSLab.html">AIMS Lab</a>'+
+            '<a href="Lab.html">AIMS Lab</a>'+
         '</li>'+
         '<li>'+
             '<a href="Contact.html">Contact</a>'+
