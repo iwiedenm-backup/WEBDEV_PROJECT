@@ -9,7 +9,7 @@ document.getElementById("navMenu").innerHTML =
         '</li>'+
 
         '<li>'+
-            '<a href="Membership.html">Membership</a>'+
+            '<a href="https://docs.google.com/forms/d/1pFrWwW4VCTxlGCZnyqK1x7Yw4IwztFe_K3NfEIeDR0A/edit">Membership</a>'+
         '</li>'+
           '<li class="dropdown">'+
             '<a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1'+
