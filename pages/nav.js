@@ -5,6 +5,7 @@ document.getElementById("navMenu").innerHTML =
             '<a class="dropdown-toggle" data-toggle="dropdown" href="About.html">About Us' + '<span class="caret">' + '</span>'+ '</a>' +
     '<ul class="dropdown-menu">' +
     '<li>' + '<a href="E-Board.html">Executive Board</a>'+ '</li>' +
+    '<li>' + '<a href="E-Board.html">' + 'Executive Board</a>'+ '</li>' +
     '</ul>' + '</li>' +
         '<li>'+
             '<a href="Membership.html">Membership</a>'+
