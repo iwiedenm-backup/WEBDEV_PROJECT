@@ -7,7 +7,7 @@ document.getElementById("navMenu").innerHTML =
     '<li>' + '<a href="E-Board.html">Executive Board</a>'+ '</li>' +
     '</ul>' + '</li>' +
         '<li>'+
-            '<a href="Membership.html">Membership</a>'+
+            '<a href="https://docs.google.com/forms/d/1pFrWwW4VCTxlGCZnyqK1x7Yw4IwztFe_K3NfEIeDR0A/edit">Membership</a>'+
         '</li>'+
         '<li>'+
             '<a href="Events.html">Events</a>'+
