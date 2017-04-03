@@ -24,7 +24,7 @@ document.getElementById("navMenu").innerHTML =
             '<a href="Events.html">Events</a>'+
         '</li>'+
         '<li>'+
-            '<a href="AIMSLab.html">AIMS Lab</a>'+
+            '<a href="Lab.html">AIMS Lab</a>'+
         '</li>'+
         '<li>'+
             '<a href="Contact.html">Contact</a>'+
