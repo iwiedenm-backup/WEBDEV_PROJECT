@@ -4,16 +4,13 @@ document.getElementById("navMenu").innerHTML =
         '<li>'+
             '<a href="index.html">Home</a>'+
         '</li>'+
-    '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown">Try<span class="caret"></span></a>'+
+    '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="About.html">About Us<span class="caret"></span></a>'+
     '<ul class="dropdown-menu"> <li><a href="#">Page 1-1</a></li>'+
           '<li><a href="#">Page 1-2</a></li>'+
           '<li><a href="#">Page 1-3</a></li>'+
         '</ul>'+
       '</li>'   +
-        '<li>'+
-            '<a href="About.html">About Us</a>'+
-        '</li>'+
-        '<li>'+
+         '<li>'+
             '<a href="https://docs.google.com/forms/d/1pFrWwW4VCTxlGCZnyqK1x7Yw4IwztFe_K3NfEIeDR0A/edit">Membership</a>'+
         '</li>'+
           '<li class="dropdown">'+
