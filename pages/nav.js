@@ -14,7 +14,7 @@ document.getElementById("navMenu").innerHTML =
           '<li class="dropdown">'+
             '<a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1 '+
             '<span class="glyphicon glyphicon-search"></span></a>'+
-            '<ul class="dropdown-content">'+
+            '<ul class="dropdown-menu">'+
               '<li><a href="http://www.google.com">Page 1-1</a></li>'+
               '<li><a href="#">Page 1-2</a></li>'+
               '<li><a href="#">Page 1-3</a></li>'+
