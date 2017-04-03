@@ -5,16 +5,19 @@ document.getElementById("navMenu").innerHTML =
             '<a href="index.html">Home</a>'+
         '</li>'+
     '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="About.html">About Us<span class="caret"></span></a>'+
-    '<ul class="dropdown-menu"> <li><a href="#">Page 1-1</a></li>'+
-          '<li><a href="#">Page 1-2</a></li>'+
-          '<li><a href="#">Page 1-3</a></li>'+
+    '<ul class="dropdown-menu"> <li><a href="#">Mission</a></li>'+
+          '<li><a href="#">Values</a></li>'+
+          '<li><a href="#">E-Board</a></li>'+
+          '<li><a href="Lab.html">AIMS Lab</a></li>'+
         '</ul>'+
       '</li>'   +
-         '<li>'+
-            '<a href="https://docs.google.com/forms/d/1pFrWwW4VCTxlGCZnyqK1x7Yw4IwztFe_K3NfEIeDR0A/edit">Membership</a>'+
-        '</li>'+
-          '<li class="dropdown">'+
-            '<a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1'+
+    '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Prospective Members<span class="caret"></span></a>'+
+    '<ul class="dropdown-menu"> <li><a href="https://docs.google.com/forms/d/1pFrWwW4VCTxlGCZnyqK1x7Yw4IwztFe_K3NfEIeDR0A/edit">Applicaiton</a></li>'+
+          '<li><a href="#">FAQs</a></li>'+
+        '</ul>'+
+      '</li>' +  
+            '<li class="dropdown">'+
+            '<a class="dropdown-toggle" data-toggle="dropdown" href="Events.html">Events'+
             '<span class="caret"></span></a>'+
             '<ul class="dropdown-menu">'+
               '<li><a href="#">Page 1-1</a></li>'+
@@ -22,13 +25,7 @@ document.getElementById("navMenu").innerHTML =
               '<li><a href="#">Page 1-3</a></li>'+
             '</ul>'+
           '</li>'+
-        '<li>'+
-            '<a href="Events.html">Events</a>'+
-        '</li>'+
-        '<li>'+
-            '<a href="AIMSLab.html">AIMS Lab</a>'+
-        '</li>'+
-        '<li>'+
+            '<li>'+
             '<a href="Contact.html">Contact</a>'+
         '</li>'+
     '</ul>'+
