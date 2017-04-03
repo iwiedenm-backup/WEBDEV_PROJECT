@@ -11,7 +11,7 @@ document.getElementById("navMenu").innerHTML =
         '</ul>'+
       '</li>'   +
     '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Prospective Members<span class="caret"></span></a>'+
-    '<ul class="dropdown-menu"> <li><a href="https://docs.google.com/forms/d/1pFrWwW4VCTxlGCZnyqK1x7Yw4IwztFe_K3NfEIeDR0A/edit">Applicaiton</a></li>'+
+    '<ul class="dropdown-menu"> <li><a href="https://docs.google.com/forms/d/1pFrWwW4VCTxlGCZnyqK1x7Yw4IwztFe_K3NfEIeDR0A/edit">Application</a></li>'+
           '<li><a href="#">FAQs</a></li>'+
         '</ul>'+
       '</li>' +  
