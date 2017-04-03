@@ -7,10 +7,6 @@ document.getElementById("navMenu").innerHTML =
         '<li>'+
             '<a href="About.html">About Us</a>'+
         '</li>'+
-          '<li>'+
-            '<a href="#">Trial</a>'+
-        '</li>'+
-
         '<li>'+
             '<a href="https://docs.google.com/forms/d/1pFrWwW4VCTxlGCZnyqK1x7Yw4IwztFe_K3NfEIeDR0A/edit">Membership</a>'+
         '</li>'+
