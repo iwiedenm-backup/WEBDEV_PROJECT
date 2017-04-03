@@ -3,7 +3,7 @@ document.getElementById("navMenu").innerHTML =
     '<ul class="nav navbar-nav">'+
         '<li>'+
             '<a href="index.html">Home</a>'+    '</li>'+
-         '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="About.html">About Us<span class="caret"></span></a>'+
+         '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">About Us<span class="caret"></span></a>'+
              '<ul class="dropdown-menu">'+
               '<li><a href="http://www.google.com">Page 1-1</a></li></ul>'
         '</li>'+
