@@ -15,7 +15,7 @@ document.getElementById("navMenu").innerHTML =
             '<a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1'+
             '<span class="caret"></span></a>'+
             '<ul class="dropdown-menu">'+
-              '<li><a href="http://www.google.com">Page 1-1</a></li>'+
+              '<li><a href="#">Page 1-1</a></li>'+
               '<li><a href="#">Page 1-2</a></li>'+
               '<li><a href="#">Page 1-3</a></li>'+
             '</ul>'+
@@ -24,7 +24,7 @@ document.getElementById("navMenu").innerHTML =
             '<a href="Events.html">Events</a>'+
         '</li>'+
         '<li>'+
-            '<a href="Lab.html">AIMS Lab</a>'+
+            '<a href="AIMSLab.html">AIMS Lab</a>'+
         '</li>'+
         '<li>'+
             '<a href="Contact.html">Contact</a>'+
