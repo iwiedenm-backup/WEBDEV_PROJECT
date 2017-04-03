@@ -11,15 +11,15 @@ document.getElementById("navMenu").innerHTML =
         '<li>'+
             '<a href="https://docs.google.com/forms/d/1pFrWwW4VCTxlGCZnyqK1x7Yw4IwztFe_K3NfEIeDR0A/edit">Membership</a>'+
         '</li>'+
-          '<li class="dropdown">'+
-            '<button class="dropbtn" data-toggle="dropdown" href="#">Page 1'+
+          '<div class="dropdown">'+
+            '<button class="dropbtn" href="#">Page 1 </button>'+
             '<span class="caret"></span></a>'+
             '<ul class="dropdown-content">'+
               '<li><a href="http://www.google.com">Page 1-1</a></li>'+
               '<li><a href="#">Page 1-2</a></li>'+
               '<li><a href="#">Page 1-3</a></li>'+
             '</ul>'+
-          '</button>'+
+          '</div>'+
         '<li>'+
             '<a href="Events.html">Events</a>'+
         '</li>'+
