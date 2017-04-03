@@ -5,7 +5,9 @@ document.getElementById("navMenu").innerHTML =
             '<a href="index.html">Home</a>'+
         '</li>'+
         '<li>'+
-            '<a href="About.html">About Us</a>'+
+            '<a class="dropdown" href="About.html">About Us<span class="caret"></span></a>'+
+             '<ul class="dropdown-menu">'+
+              '<li><a href="http://www.google.com">Page 1-1</a></li></ul>'
         '</li>'+
 
         '<li>'+
