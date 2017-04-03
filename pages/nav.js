@@ -4,7 +4,12 @@ document.getElementById("navMenu").innerHTML =
         '<li>'+
             '<a href="index.html">Home</a>'+
         '</li>'+
-    '<li><a href="#">Try</a></li>'+
+    '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown">Try</a>'+
+    '<ul class="dropdown-menu"> <li><a href="#">Page 1-1</a></li>'+
+          '<li><a href="#">Page 1-2</a></li>'+
+          '<li><a href="#">Page 1-3</a></li>'+
+        '</ul>'+
+      '</li>'   +
         '<li>'+
             '<a href="About.html">About Us</a>'+
         '</li>'+
