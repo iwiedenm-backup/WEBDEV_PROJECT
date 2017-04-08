@@ -4,23 +4,24 @@ document.getElementById("navMenu").innerHTML =
         '<li>'+
             '<a href="index.html">Home</a>'+
         '</li>'+
-    '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">About Us<span class="caret"></span></a>'+
-    '<ul class="dropdown-menu"> <li><a href="About.html">Mission</a></li>'+
+    '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="About.html">About Us<span class="caret"></span></a>'+
+    '<ul class="dropdown-menu">' +
           '<li><a href="E-Board.html">E-Board</a></li>'+
           '<li><a href="Lab.html">AIMS Lab</a></li>'+
         '</ul>'+
       '</li>'   +
-    '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Prospective Members<span class="caret"></span></a>'+
-    '<ul class="dropdown-menu"> <li><a href="https://docs.google.com/forms/d/1pFrWwW4VCTxlGCZnyqK1x7Yw4IwztFe_K3NfEIeDR0A/edit">Application</a></li>'+
-          '<li><a href="#">FAQs</a></li>'+
+    '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Members<span class="caret"></span></a>'+
+    '<ul class="dropdown-menu"> <li><a href="https://docs.google.com/forms/d/1pFrWwW4VCTxlGCZnyqK1x7Yw4IwztFe_K3NfEIeDR0A/edit">Prospective Members Application</a></li>'+
+          '<li><a href="#">E-Board Application</a></li>'+
+    + '<li><a href="#">FAQs</a></li>' +
         '</ul>'+
       '</li>' +  
             '<li class="dropdown">'+
             '<a class="dropdown-toggle" data-toggle="dropdown" href="Events.html">Events'+
             '<span class="caret"></span></a>'+
             '<ul class="dropdown-menu">'+
-              '<li><a href="#">Page 1-1</a></li>'+
-              '<li><a href="#">Page 1-2</a></li>'+
+              '<li><a href="Events.html">Upcoming Events</a></li>'+
+              '<li><a href="#">Past Events</a></li>'+
               '<li><a href="#">Page 1-3</a></li>'+
             '</ul>'+
           '</li>'+
