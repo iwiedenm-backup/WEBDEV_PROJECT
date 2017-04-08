@@ -25,11 +25,14 @@ document.getElementById("navMenu").innerHTML =
               '<li><a href="#">Page 1-3</a></li>'+
             '</ul>'+
           '</li>'+
-            '<li>'+
-            '<a href="Contact.html">Contact</a>'+
+            '<li class="dropdown">'+
+            '<a class="dropdown-toggle" data-toggle="dropdown" href="Contact.html">Contact'+
+            '<span class="caret"></span></a>'+
+            '<ul class="dropdown-menu">'+
+              '<li><a href="Resources.html">Resources</a></li>'+
+              '</ul>' +
         '</li>'+
-    '</ul>'+
-
+    
 '</div>';
 
 
