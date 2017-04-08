@@ -17,7 +17,7 @@ document.getElementById("navMenu").innerHTML =
         '</ul>'+
       '</li>' +  
             '<li class="dropdown">'+
-            '<a class="dropdown-toggle" data-toggle="dropdown" href="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=880&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=lion.lmu.edu_bk7vkusah1fmqibgsb75bkh4vk%40group.calendar.google.com&amp;color=%238C500B&amp;ctz=America%2FLos_Angeles' style='border-width:0' width='800' height='800' scrolling='no' ">Events'+
+            '<a class="dropdown-toggle" data-toggle="dropdown" href="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=880&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=lion.lmu.edu_bk7vkusah1fmqibgsb75bkh4vk%40group.calendar.google.com&amp;color=%238C500B&amp;ctz=America%2FLos_Angeles style='border-width:0' width='800' height='800' scrolling='no' ">Events'+
             '<span class="caret"></span></a>'+
             '<ul class="dropdown-menu">'+
               '<li><a href="Events.html">Upcoming Events</a></li>'+
