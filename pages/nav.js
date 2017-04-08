@@ -13,7 +13,7 @@ document.getElementById("navMenu").innerHTML =
     '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Members<span class="caret"></span></a>'+
     '<ul class="dropdown-menu"> <li><a href="https://docs.google.com/forms/d/1pFrWwW4VCTxlGCZnyqK1x7Yw4IwztFe_K3NfEIeDR0A/edit">Prospective Members Application</a></li>'+
           '<li><a href="#">E-Board Application</a></li>'+
-    + '<li><a href="#">FAQs</a></li>' +
+    + '<li><a href="#">A Application</a></li>'+
         '</ul>'+
       '</li>' +  
             '<li class="dropdown">'+
