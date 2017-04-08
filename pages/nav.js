@@ -4,8 +4,8 @@ document.getElementById("navMenu").innerHTML =
         '<li>'+
             '<a href="index.html">Home</a>'+
         '</li>'+
-    '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="About.html">About Us<span class="caret"></span></a>'+
-    '<ul class="dropdown-menu"> <li><a href="Mission.html">Mission</a></li>'+
+    '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">About Us<span class="caret"></span></a>'+
+    '<ul class="dropdown-menu"> <li><a href="About.html">Mission</a></li>'+
           '<li><a href="E-Board.html">E-Board</a></li>'+
           '<li><a href="Lab.html">AIMS Lab</a></li>'+
         '</ul>'+
