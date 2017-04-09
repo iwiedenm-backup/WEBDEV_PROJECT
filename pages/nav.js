@@ -12,7 +12,7 @@ document.getElementById("navMenu").innerHTML =
       '</li>'   +
     '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Members<span class="caret"></span></a>'+
     '<ul class="dropdown-menu"> <li><a href="https://docs.google.com/forms/d/1pFrWwW4VCTxlGCZnyqK1x7Yw4IwztFe_K3NfEIeDR0A/edit">Prospective Members Application</a></li>'+
-          '<li><a href="https://docs.google.com/a/lion.lmu.edu/forms/d/e/1FAIpQLSfj9S0DkwjeBUu6MpDSGSJE8pK_KyZkevwmubtJgwyW-4hPHQ/viewform">E-Board Application</a></li>' +
+          '<li><a href="https://goo.gl/forms/TWRh7mSQBrb0y1OF3">E-Board Application</a></li>' +
     '<li><a href="#">Page 1-3</a></li>'+
         '</ul>'+
       '</li>' +  
