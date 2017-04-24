@@ -22,7 +22,7 @@ document.getElementById("navMenu").innerHTML =
             '<ul class="dropdown-menu">'+
               '<li><a href="Events.html">Upcoming Events</a></li>'+
               '<li><a href="PastEvents.html">Past Events</a></li>'+
-              '<li><a href="FAQs.html">FAQs</a></li>'+
+              '<li><a href="FAQs.html">FAQs</a></li>'
               + '</ul>'+
           '</li>'+
             '<li class="dropdown">'+
