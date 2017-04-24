@@ -28,6 +28,7 @@ document.getElementById("navMenu").innerHTML =
             '<a class="dropdown-toggle" data-toggle="dropdown" href="Contact.html">Contact'+
             '<span class="caret"></span></a>'+
             '<ul class="dropdown-menu">'+
+              '<li><a href="Professors.html">Professors</a></li>'+
               '<li><a href="Resources.html">Resources</a></li>'+
               '</ul>' +
         '</li>'+
