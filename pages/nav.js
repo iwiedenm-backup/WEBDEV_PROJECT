@@ -26,9 +26,10 @@ document.getElementById("navMenu").innerHTML =
               + '</ul>'+
           '</li>'+
             '<li class="dropdown">'+
-            '<a class="dropdown-toggle" data-toggle="dropdown" href="Contact.html">Contact'+
+            '<a class="dropdown-toggle" data-toggle="dropdown" href="#">Contact'+
             '<span class="caret"></span></a>'+
             '<ul class="dropdown-menu">'+
+              '<li><a href="Contact.html">Help</a></li>'+
               '<li><a href="Professors.html">Professors</a></li>'+
               '<li><a href="Resources.html">Resources</a></li>'+
               '</ul>' +
