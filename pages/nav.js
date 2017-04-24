@@ -21,9 +21,8 @@ document.getElementById("navMenu").innerHTML =
             '<span class="caret"></span></a>'+
             '<ul class="dropdown-menu">'+
               '<li><a href="Events.html">Upcoming Events</a></li>'+
-              '<li><a href="#">Past Events</a></li>'+
-              '<li><a href="#">Page 1-3</a></li>'+
-            '</ul>'+
+              '<li><a href="PastEvents.html">Past Events</a></li>'
+              + '</ul>'+
           '</li>'+
             '<li class="dropdown">'+
             '<a class="dropdown-toggle" data-toggle="dropdown" href="Contact.html">Contact'+
