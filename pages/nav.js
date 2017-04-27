@@ -29,7 +29,7 @@ document.getElementById("navMenu").innerHTML =
             '<a class="dropdown-toggle" data-toggle="dropdown" href="#">Contact'+
             '<span class="caret"></span></a>'+
             '<ul class="dropdown-menu">'+
-              '<li><a href="Contact.html">Help</a></li>'+
+              '<li><a href="Contact.php">Help</a></li>'+
               '<li><a href="Professors.html">Professors</a></li>'+
               '<li><a href="Resources.html">Resources</a></li>'+
               '</ul>' +

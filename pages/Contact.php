@@ -150,9 +150,9 @@ _HEADER;
 echo $header;
 
 $servername = "localhost";
-$username = "root";
-$password = "cadele7";
-$dbname = "CD_CrudExample";
+$username = "db_root";
+$password = "db_root";
+$dbname = "crud_itw";
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 
@@ -167,10 +167,10 @@ $st_s = $_POST["subject"];
 $st_msg = $_POST["message"];
 
 
-$sql_insert = "INSERT INTO Contact
+$sql_insert = "INSERT INTO Contact (Name, Email, Phone, Subject, Message)
 	               VALUES ('$st_name', '$st_emn', '$st_phone', '$st_s', '$st_msg')";
 
-$result = mysqli_query($conn, $sql_insert);	
+$result = mysqli_query($conn, $sql_insert);
 
 if (isset($_POST["ent"])) {
 echo "<script> alert('Thank you. Your inquiry has been submitted.'); </script>";}
